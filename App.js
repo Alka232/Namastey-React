@@ -1,3 +1,5 @@
+import React from "react";
+import React from "react-dom";
 /*
 <div id="parent">
 <div if="child">
