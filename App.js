@@ -1,13 +1,5 @@
 import React from "react";
 import React from "react-dom";
-/*
-<div id="parent">
-<div if="child">
-<h1>i am an h1 tag</h1>
-</div>
-</div>
-
-*/
 
 // React.createElement(object)=>HTML(Browser understanding)
 

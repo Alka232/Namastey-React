@@ -1,4 +1,4 @@
-5991
+5993
 75C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\type-fest\source133624111848331935 1
 102C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\css-tree\cjs\definition-syntax\generate.cjs133624112202954855 0
 105C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\css-tree\cjs\syntax\node\MediaFeatureRange.cjs133624112203783229 0
@@ -17,7 +17,7 @@
 108C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@swc\helpers\_\_class_static_private_field_update133624111800050700 1
 63C:\Users\Alka\OneDrive\Desktop\Namastey React\package-lock.json133624276368670468 0
 141C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\generate.js133624111849299046 0
-52C:\Users\Alka\OneDrive\Desktop\Namastey React\App.js133624277069888685 0
+52C:\Users\Alka\OneDrive\Desktop\Namastey React\App.js133624279101702466 0
 91C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\cosmiconfig\dist\defaults.js.map133624112319931917 0
 68C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\commander133624111934702394 1
 76C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\lmdb\dependencies133624111541361342 1
@@ -35,7 +35,7 @@
 109C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\csso\node_modules\css-tree\cjs\tokenizer\types.cjs133624111666047070 0
 97C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\source-map\lib\source-map-generator.js133624111799793693 0
 80C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@swc\helpers\_\_using133624111801922483 1
-50C:\Users\Alka\OneDrive\Desktop\Namastey React\dist133624276434246073 1
+50C:\Users\Alka\OneDrive\Desktop\Namastey React\dist133624281510135456 1
 63C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@swc133624111522569641 1
 104C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@swc\helpers\_\_write_only_error\package.json133624111801965405 0
 76C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\csso\lib\utils.js133624112122452603 0
@@ -67,7 +67,7 @@
 95C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\.bin\download-msgpackr-prebuilds.cmd133624113265614431 0
 124C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\create.js133624111799995340 0
 99C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\react-dom\umd\react-dom.profiling.min.js133624276367282518 0
-56C:\Users\Alka\OneDrive\Desktop\Namastey React\index.html133624276510245455 0
+56C:\Users\Alka\OneDrive\Desktop\Namastey React\index.html133624281544864492 0
 73C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\dotenv\LICENSE133624111761537019 0
 110C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133624111539220729 0
 111C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.cjs133624111761341179 0
@@ -5121,6 +5121,7 @@
 115C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js133624111800360689 0
 112C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133624111800446862 0
 89C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\runtime-js\lib\helpers133624111800112073 1
+68C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.7826abd7.js133624281510092999 0
 94C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\runtime-js\lib\JSRuntime.js133624111800261970 0
 89C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\core\lib\Dependency.js133624111940858752 0
 97C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\@parcel\runtime-js\lib\helpers\browser133624111800384661 1
@@ -5985,8 +5986,9 @@
 72C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\.bin\svgo.ps1133624113265627051 0
 90C:\Users\Alka\OneDrive\Desktop\Namastey React\node_modules\.bin\update-browserslist-db.ps1133624113265627051 0
 72C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.6bd02f5a.js.map133624275914421994 0
-69C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.9e4c6fd2.css133624275914754292 0
-73C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.9e4c6fd2.css.map133624275914804635 0
-61C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.html133624275688475540 0
-77C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\Namastey React.3464ddca.js133624275914375310 0
-81C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\Namastey React.3464ddca.js.map133624275914484248 0
+72C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.7826abd7.js.map133624281510135456 0
+69C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.9e4c6fd2.css133624281508514985 0
+73C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.9e4c6fd2.css.map133624281508514985 0
+61C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\index.html133624281508367822 0
+77C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\Namastey React.3464ddca.js133624281450005038 0
+81C:\Users\Alka\OneDrive\Desktop\Namastey React\dist\Namastey React.3464ddca.js.map133624281450043904 0
