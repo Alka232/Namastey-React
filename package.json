@@ -1,0 +1,23 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is Namastey React by Alka Chauhan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Alka232/Namastey-React.git)"
+  },
+  "keywords": [
+    "react",
+    "namastey",
+    "react"
+  ],
+  "author": "\"Alka Chauhan\",",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
